@@ -1,0 +1,8 @@
+{
+  "name": "Remix GlobalFlights",
+  "description": "Fly Anywhere in the World — Easy, Fast \u0026 Affordable flight search, booking, and trip schedule management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
